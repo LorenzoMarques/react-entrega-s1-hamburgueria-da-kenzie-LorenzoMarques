@@ -17,7 +17,7 @@
   border: 2px solid #e0e0e0;
 }
 
-.product-list:hover {
+.product-list:ho {
   border: 2px solid #333333;
 }
 
@@ -78,7 +78,6 @@
     display: flex;
     flex-wrap: wrap;
     width: 60%;
-    margin-top: 30px;
   }
 }
 
